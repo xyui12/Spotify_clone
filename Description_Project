@@ -1,0 +1,30 @@
+This is a personal project developed as part of my web development coursework. 
+The Spotify Music Web App is a simple yet functional music player designed to allow users to stream their favorite tracks directly from their browser.
+The project showcases my skills in HTML, CSS, and JavaScript and demonstrates my ability to create interactive web applications.
+Features
+Song List: Displays a list of available songs that users can choose from.
+Play/Pause Buttons: Users can control music playback with straightforward play and stop buttons.
+Live Music Streaming: The app supports streaming music, so users can listen to tracks in real-time.
+Technologies Used
+HTML: Used to structure the application, including the layout for the song list and player controls.
+CSS: Applied to style the app and enhance its visual appearance.
+JavaScript: Handles the functionality for playing and stopping music, as well as interacting with the song list.
+How to Run the App
+Clone the Repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/spotify-music-web-app.git
+Navigate to the Project Folder:
+
+bash
+Copy code
+cd spotify-music-web-app
+Open the HTML File:
+Open index.html in any web browser to start using the app.
+
+Acknowledgements
+This project was inspired by the interface and functionality of Spotify.
+Created as part of a web development course to practice core skills and build a functional application.
+Feel free to check out the app and explore its features. I’m excited to share this project as part of my learning journey!
+
